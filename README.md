@@ -13,8 +13,18 @@ O "Jogo do Número Secreto" é uma aplicação realizada com JavaScript que desa
 - Geração aleatória de um número secreto a cada rodada.
 - Limite de tentativas, exibindo se o palpite é maior ou menor que o número secreto.
 - Interface interativa para inserção dos palpites.
-- Feedback imediato sobre acertos e erros.
 - Possibilidade de reiniciar o jogo para uma nova rodada.
+
+## Funcionalidades adicionais
+
+Além das funcionalidades propostas no curso, foram adicionados alguns recursos extras:
+
+- Solicitação do nome do jogador no início de cada partida.
+- Exibição de quantas tentativas restam a cada palpite.
+- Feedback imediato sobre acertos e erros.
+- Recurso de acessibilidade: leitura da página e informações via tecnologias assistivas.
+
+Essas melhorias proporcionam uma experiência mais personalizada e acessível a todos os usuários.
 
 ## Tecnologias Utilizadas
 
