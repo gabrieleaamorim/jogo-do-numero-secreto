@@ -2,7 +2,7 @@
 
 Este projeto é um jogo interativo desenvolvido durante o curso "Lógica de Programação: Explore funções e listas" da plataforma Alura.
 
-Acesse a versão online: [Jogue agora](https://jogo-two-blond-10.vercel.app)
+Acesse a versão online: [Jogue agora](https://jogo-gabriele-amorim.vercel.app/)
 
 ## Descrição
 
